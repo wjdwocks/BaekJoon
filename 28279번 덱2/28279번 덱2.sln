@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28279번 덱2", "28279번 덱2\28279번 덱2.vcxproj", "{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}.Debug|x64.ActiveCfg = Debug|x64
+		{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}.Debug|x64.Build.0 = Debug|x64
+		{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}.Debug|x86.Build.0 = Debug|Win32
+		{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}.Release|x64.ActiveCfg = Release|x64
+		{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}.Release|x64.Build.0 = Release|x64
+		{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}.Release|x86.ActiveCfg = Release|Win32
+		{872557AB-D42B-4F67-9200-DAD2DC0FFC2D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED10D12C-BD9F-43EE-B040-B50C7F34ACA5}
+	EndGlobalSection
+EndGlobal

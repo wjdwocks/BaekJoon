@@ -1,0 +1,9 @@
+﻿  소스.cpp
+C:\Users\user\Desktop\백준 문제\1074번 Z\1074번 Z\소스.cpp(18,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\백준 문제\1074번 Z\1074번 Z\소스.cpp(19,76): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\백준 문제\1074번 Z\1074번 Z\소스.cpp(23,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\백준 문제\1074번 Z\1074번 Z\소스.cpp(24,76): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\백준 문제\1074번 Z\1074번 Z\소스.cpp(28,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\백준 문제\1074번 Z\1074번 Z\소스.cpp(29,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\백준 문제\1074번 Z\1074번 Z\소스.cpp(39,22): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1074번 Z.vcxproj -> C:\Users\user\Desktop\백준 문제\1074번 Z\x64\Debug\1074번 Z.exe

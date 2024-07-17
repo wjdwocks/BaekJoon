@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\user\Desktop\백준 문제\4779번 칸토어 집합\4779번 칸토어 집합\소스.cpp(24,47): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\백준 문제\4779번 칸토어 집합\4779번 칸토어 집합\소스.cpp(25,10): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  4779번 칸토어 집합.vcxproj -> C:\Users\user\Desktop\백준 문제\4779번 칸토어 집합\x64\Debug\4779번 칸토어 집합.exe

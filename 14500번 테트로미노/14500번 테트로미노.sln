@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14500번 테트로미노", "14500번 테트로미노\14500번 테트로미노.vcxproj", "{74415186-BC80-4412-9E2F-53CF1784168D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74415186-BC80-4412-9E2F-53CF1784168D}.Debug|x64.ActiveCfg = Debug|x64
+		{74415186-BC80-4412-9E2F-53CF1784168D}.Debug|x64.Build.0 = Debug|x64
+		{74415186-BC80-4412-9E2F-53CF1784168D}.Debug|x86.ActiveCfg = Debug|Win32
+		{74415186-BC80-4412-9E2F-53CF1784168D}.Debug|x86.Build.0 = Debug|Win32
+		{74415186-BC80-4412-9E2F-53CF1784168D}.Release|x64.ActiveCfg = Release|x64
+		{74415186-BC80-4412-9E2F-53CF1784168D}.Release|x64.Build.0 = Release|x64
+		{74415186-BC80-4412-9E2F-53CF1784168D}.Release|x86.ActiveCfg = Release|Win32
+		{74415186-BC80-4412-9E2F-53CF1784168D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C255B295-ED7A-4EB6-AC04-50D34BC6994E}
+	EndGlobalSection
+EndGlobal
